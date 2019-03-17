@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="item1">item1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_1">Item 1</string>
+    <string name="rice">Rice</string>
+    <string name="potato">Potato</string>
+    <string name="yam">Yam</string>
+    <string name="bread">Bread</string>
+</resources>
